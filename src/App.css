@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Robotaur";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Robotaur"), url("robotaur.woff") format("woff");
+}
+
+h1 {
+  font-family: "Robotaur";
+  font-weight: 200;
+  color: aliceblue;
+}
